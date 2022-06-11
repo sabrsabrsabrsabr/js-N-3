@@ -1,0 +1,7 @@
+.box {
+  margin: 50px auto;
+  padding: 20px 10px;
+  background-color: chartreuse;
+  width: 500px;
+  height: 300px;
+}
